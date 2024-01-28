@@ -1,9 +1,9 @@
-int BaseNetworkable = 54642328 // "Signature": "BaseNetworkable_c*"
-int ConVarCulling = 54750608 // "Signature": "ConVar_Culling_c*"
-int ConvarAdminn = 54596872 // "Signature": "ConVar_Admin_c*"
-int ConvarClientt = 54715624 // "Signature": "ConVar_Client_c*"
-int OcclusionCullingg = 55174392 // "Signature": "OcclusionCulling_c*"
-int ConvarGraphicss = 54893232 // "Signature": "ConVar_Graphics_c*"
+int BaseNetworkable = 54145056 // "Signature": "BaseNetworkable_c*"
+int ConVarCulling = 54249856 // "Signature": "ConVar_Culling_c*"
+int ConvarAdminn = 54101296 // "Signature": "ConVar_Admin_c*"
+int ConvarClientt = 54215408 // "Signature": "ConVar_Client_c*"
+int OcclusionCullingg = 54674168 // "Signature": "OcclusionCulling_c*"
+int ConvarGraphicss = 54393552 // "Signature": "ConVar_Graphics_c*"
 int PlayerFlags = 2248 // public BasePlayer.PlayerFlags playerFlags
 int PlayerMovementt = 1696 // public BaseMovement movement
 int ActiveUID = 2000 // private ItemId clActiveItem
